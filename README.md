@@ -1,8 +1,8 @@
 # StrainSybionts_mussel
  Strain analysis of symbionts in the deep-sea mussel, v2.0
-Strain-level assembly of Symbionts in mussels from vents and cold seeps in the Wester-Northern Pacific Ocean
+Strain-level assembly of Symbionts in mussels from vents and cold seeps in the Northwest Pacific Ocean
 
-This repository contains scripts used in the assembly of MAGs to uncover the within-species diversity of methane-oxidizing (MOX) symbionts in Gigantidasplatifrons platifrons. The efficacy of the pipeline can be assessed using the scripts located in the mockTest_scripts folder. Additionally, these scripts facilitate analysis on positive selection, clade-specific gene recovery, and differential gene distribution across specific loci in the genomes. These scripts are provided to assist readers of the manuscript titled "Mosaic environment-driven evolution of the deep-sea mussel Gigantidas platifrons bacterial endosymbiont" in replicating the analysis. We have not verified their applicability to other datasets, and it's important to note that they are not intended as tools for broader use.
+This repository contains scripts used in the assembly of MAGs to uncover the within-species diversity of methane-oxidizing (MOX) symbionts in Gigantidasplatifrons platifrons. The efficiency of the pipeline can be assessed using the scripts located in the mockTest_scripts folder. Additionally, these scripts facilitate analysis on positive selection, clade-specific gene recovery, and differential gene distribution across specific loci in the genomes. These scripts are provided to assist readers of the manuscript titled "Mosaic environment-driven evolution of the deep-sea mussel Gigantidas platifrons bacterial endosymbiont" in replicating the analysis. We have not verified their applicability to other datasets, and it's important to note that they are not intended as tools for broader use.
 
 For most of the scripts, -h option following each command will give the general introduction on their usages.
 
